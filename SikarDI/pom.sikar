@@ -1,0 +1,13 @@
+APPLICATION_NAME={project_name}
+VERSION="1"
+SRC_DIR="src"
+OUT_DIR="target/classes"
+MAIN_CLASS="com.sikar.Main"
+JAR_DIR="target"
+
+# Empty
+EXTERNAL_JARS=(
+#"sikarDI.jar"
+#"/path/to/external/jar2.jar"
+# Add more paths as needed
+)
