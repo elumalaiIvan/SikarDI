@@ -1,4 +1,4 @@
-APPLICATION_NAME={project_name}
+APPLICATION_NAME=SikarDI
 VERSION="1"
 SRC_DIR="src"
 OUT_DIR="target/classes"
